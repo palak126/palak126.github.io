@@ -12,10 +12,10 @@
 }
 
 :root {
-    --bg-color: #540d6e; /* Dark Pink */
-    --second-bg-color: #800f8d; /* Slightly Lighter Dark Pink */
-    --text-color: #ffdde1; /* Light Pink */
-    --main-color: #ff4081; /* Bright Pink for accents */
+    --bg-color: #420f3f; /* Deep Muted Plum */
+    --second-bg-color: #622659; /* Soft Dark Mauve */
+    --text-color: #f5e6eb; /* Warm Light Pink */
+    --main-color: #d375a1; /* Muted Rose Pink for accents */
 }
 
 html {
