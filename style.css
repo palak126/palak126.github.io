@@ -12,10 +12,10 @@
 }
 
 :root {
-    --bg-color: #420f3f; /* Deep Muted Plum */
-    --second-bg-color: #622659; /* Soft Dark Mauve */
-    --text-color: #f5e6eb; /* Warm Light Pink */
-    --main-color: #d375a1; /* Muted Rose Pink for accents */
+    --bg-color: #081b29;
+    --second-bg-color: #112e42;
+    --text-color: #ededed;
+    --main-color: #00abf0;
 }
 
 html {
